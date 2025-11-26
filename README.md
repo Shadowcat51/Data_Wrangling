@@ -1,2 +1,2 @@
 # Data_Wrangling
-Ini adalah Projek data wrangling kami ari anak UNESA dan UNJ
+Ini adalah Projek data wrangling kami dari anak UNESA dan UNJ
